@@ -6,9 +6,9 @@ import { RiMenstrualCycleLine, RiPregnantLine, RiHealthBookLine, RiAnotherIcon, 
 const Dashboard = () => {
   return (
     <div className="flex flex-col h-screen">
-      
+
       <main className="flex-1 bg-gradient-to-r from-[#ECF2FF] to-[#FBFCFF]  p-8">
-      <div className='mb-10  text-2xl font-bold'>
+      <div className='mb-10 text-2xl font-bold'>
     <h3>Women Health Tracker </h3>
     </div>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
