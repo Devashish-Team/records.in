@@ -11,7 +11,7 @@ const Abha = () => {
     </div>
     <div className=' bg-white flex justify-center items-center flex-row mx-auto gap-28'>
      <div className='w-2/5'>
-        <img src={phot} alt="" className=''/>
+        <img src="" alt="photo" className=''/>
      </div>
      <div className=' w-2/5'>
         <p className=' text-lg'>In line with India's Ayushman Bharat Digital Mission, My-Records.in is a government-approved platform for keeping track of your health information. It makes it easy to create your Health ID, called ABHA. With My-Records.in, you can link all your medical records in one place, making it simple for you and your doctor to access them. This means you both have all the information needed to give and receive the best care possible.</p>
